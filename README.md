@@ -7,7 +7,7 @@ npm run dev
 ## Notification Service
 The provided code sets up a Node.js application for handling and processing notifications through different channels such as push, SMS, and email. Here is a summary of the key components and functionalities:
 
-![Alt Diagram - Notification service](image link)
+<img src="https://github.com/Deepak18-06/notification-service/blob/main/assets/notification-service.png" alt="Alt text" title="Optional title">
 
 1. **Dependencies**:
    - The code requires the following dependencies, which can be installed using npm:
